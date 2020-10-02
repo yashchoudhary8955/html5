@@ -30,7 +30,7 @@ Interesting features
   parser will keep adding data as it's received.
 
 * HTML5 parsing algorithm. If you find something this can't parse, I'll want
-  to know about it. It should make sense out of anything a browser can.
+  to know about it. It should make sense out of anything a browser can do.
 
 Installation
 -------------
